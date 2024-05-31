@@ -11,7 +11,7 @@ VestSniper is a Python tool designed to provide real-time updates on player stat
 
 ## Showcase
 
-
+https://github.com/YongSheng109/VestSniper/assets/93895098/3d00db98-29ef-4bb0-b2e1-0658e14e932c
 
 ## How to Use:
 
@@ -24,3 +24,4 @@ Running the sniper:
 ```
 python main.py
 ```
+
