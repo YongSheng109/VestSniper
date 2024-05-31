@@ -1,6 +1,6 @@
 # VestSniper
 
-VestSniper is a Python tool designed to provide real-time updates on player status and statistics. Hypixel Sniper offers valuable insights into player activity, statistics, and more.
+VestSniper is a Python tool designed to provide real-time updates on player status and statistics. VestSniper offers valuable insights into player activity, statistics, and more.
 
 ## Features:
 
